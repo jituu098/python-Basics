@@ -9,3 +9,8 @@ print("Age: ", age)
 # Float input
 height = float(input("Enter height: "))
 print("Height: " , height)
+
+#multiple input
+name , age = input("Enter your name and age: ").split()
+print("Name: ", name)
+print("Age: ", age)
