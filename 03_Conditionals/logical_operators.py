@@ -1,4 +1,4 @@
-age = 22;
+age = 22
 has_id = True
 
 # Executes only when both the codition will be true
